@@ -69,7 +69,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 
 **3. Open in code Editor:**
 
-- Open the `README.md` file
+- Open the `README.md` file df
 ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/dd43df00-e1f2-42fa-8714-4a5731a1027f)
 
   
